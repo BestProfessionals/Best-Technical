@@ -1,3 +1,3 @@
-import RANEW main
+from RANEW import main
 
 main()
