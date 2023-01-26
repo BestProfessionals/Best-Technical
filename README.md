@@ -9,7 +9,7 @@ git clone https://github.com/BestProfessionals/Best-Technical.git
 
 
 
-cd Best Technical
+cd Best-Technical
 
 
 ls
