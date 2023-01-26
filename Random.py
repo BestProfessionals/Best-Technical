@@ -1,0 +1,3 @@
+import RANEW main
+
+main()
